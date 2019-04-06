@@ -1,0 +1,15 @@
+{
+  "name": "cpe207_homework3-master_maesa",
+  "version": "1.0.0",
+  "description": "crash course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Suvisa N",
+  "license": "ISC",
+  "dependencies": {
+    "modules": "^0.4.0"
+  }
+}
